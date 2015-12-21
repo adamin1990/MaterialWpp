@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_meinv"
+            android:icon="@drawable/ic_action_emo_cool"
+            android:title="美女" />
+        <item
+            android:id="@+id/nav_mengchong"
+            android:icon="@drawable/ic_action_emo_evil"
+            android:title="萌宠" />
+        <item
+            android:id="@+id/nav_fengjing"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="风景" />
+        <item
+            android:id="@+id/nav_zhiwu"
+            android:icon="@drawable/ic_nature_people"
+            android:title="植物" />
+        <item
+            android:id="@+id/nav_dongman"
+            android:icon="@drawable/ic_local_florist"
+            android:title="动漫" />
+        <item
+            android:id="@+id/nav_fengge"
+            android:icon="@drawable/ic_android"
+            android:title="风格" />
+        <item
+            android:id="@+id/nav_xingqing"
+            android:icon="@drawable/ic_action_emo_kiss"
+            android:title="心情" />
+        <item
+            android:id="@+id/nav_renwu"
+            android:icon="@drawable/ic_face"
+            android:title="人物" />
+        <item
+            android:id="@+id/nav_shenghuo"
+            android:icon="@drawable/ic_location_city"
+            android:title="生活" />
+    </group>
+
+    <item android:title="联系">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="分享" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_style"
+                android:title="关于" />
+        </menu>
+    </item>
+
+</menu>

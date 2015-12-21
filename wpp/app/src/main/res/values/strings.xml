@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">时光</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_zhuan_ti">美女</string>
+    <string name="action_search">查找</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_single_image">SingleImageActivity</string>
+</resources>
