@@ -14,7 +14,7 @@
 
 # DOWNLOAD #
 
-download app from [here](https://raw.githubusercontent.com/adamin1990/MaterialWpp/raw/master/wpp/app/app-release.apk)
+download app from [here](https://github.com/adamin1990/MaterialWpp/raw/master/wpp/app/app-release.apk)
 
 # About #
 
